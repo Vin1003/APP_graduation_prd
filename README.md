@@ -57,7 +57,6 @@
 
 ![价值主张设计](https://images.gitee.com/uploads/images/2019/1120/194330_bf91a14c_1532294.png "价值主张设计")
 
-
 ### PRD1 加值宣言
 
 ##### 以微软azure API为例
